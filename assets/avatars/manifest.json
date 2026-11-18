@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "version": "2026.11.19-1",
- "assetRef": "dc17306e3f3c7407c58b228840d32e99961f34ba",
+ "assetRef": "7056d52f189c3ad173f7934beedd1b22ca87c49d",
  "basePath": "assets/avatars",
  "tiers": [
   {
@@ -451,64 +451,64 @@
    "id": "b5-0001",
    "tier": "b5",
    "file": "b5/b5-0001.webp",
-   "bytes": 10280,
-   "sha256": "128f5d637c9ac44366b5d6f1ad9680e91edd718115186c810f4c81dc84332e48",
+   "bytes": 9154,
+   "sha256": "daa05606e5e5f63b3eddd4093ca064a278d63cf94e8c1ddae6b33461bfd41638",
    "retired": false
   },
   {
    "id": "b5-0002",
    "tier": "b5",
    "file": "b5/b5-0002.webp",
-   "bytes": 10356,
-   "sha256": "d0eade7d0bea86db8757149277dadf25823c88203340bcf0ac34e9a2967ce595",
+   "bytes": 8772,
+   "sha256": "485111509a768901e574414c8bae1981d9b320a33ada9f746101ac8d44cd9f23",
    "retired": false
   },
   {
    "id": "b5-0003",
    "tier": "b5",
    "file": "b5/b5-0003.webp",
-   "bytes": 9486,
-   "sha256": "1d3888e46dd10bedf981b60d2c4f09ce748d4cc714cc7db3e89d4a17abced863",
+   "bytes": 8794,
+   "sha256": "b76efcb19e5de09013505d1061473cf94c1f40a8b6997673c53567a90be9c3d0",
    "retired": false
   },
   {
    "id": "b5-0004",
    "tier": "b5",
    "file": "b5/b5-0004.webp",
-   "bytes": 7072,
-   "sha256": "eaae51b8895d2d3efbd6441717ef4f65831a0add71c999408826af0c09354a90",
+   "bytes": 5818,
+   "sha256": "7a7f55d5865433e48f6f99aa9bd9ca27562f4e0d16b4b325d5bce557948808fc",
    "retired": false
   },
   {
    "id": "b5-0005",
    "tier": "b5",
    "file": "b5/b5-0005.webp",
-   "bytes": 9728,
-   "sha256": "6bbc9f388fc17f29e1b4647292029ac492548d7319dbeecc386fdf807c1a0b0b",
+   "bytes": 8282,
+   "sha256": "6a2f92827b5aa91542ae4665565a380bdfd604625d944d9a2a0175d521c14e76",
    "retired": false
   },
   {
    "id": "b5-0006",
    "tier": "b5",
    "file": "b5/b5-0006.webp",
-   "bytes": 7780,
-   "sha256": "2431ae514c49a758e00735381926fdf38f30172febce647a2f5979cc05055132",
+   "bytes": 7740,
+   "sha256": "f4b06b8ec5551898d7abad4570ed17bc695844c0e8e99aa77e8d45391734a6d2",
    "retired": false
   },
   {
    "id": "b5-0007",
    "tier": "b5",
    "file": "b5/b5-0007.webp",
-   "bytes": 10584,
-   "sha256": "44fd0ee6794fffbae87fc00a163161858a19a997455245ce596fe7e6a5ed6448",
+   "bytes": 8802,
+   "sha256": "0b82f05421563571f370e942c610db5d1c3f20bc9105402a51060ce7c3ded204",
    "retired": false
   },
   {
    "id": "b5-0008",
    "tier": "b5",
    "file": "b5/b5-0008.webp",
-   "bytes": 9094,
-   "sha256": "0428a8e4f07849fb39f7969f6aaf2ee4bec3fdcdaba5bbf8a451e147fdc27106",
+   "bytes": 8154,
+   "sha256": "73e3d6cf55e5f6943f8c23243ef9cc9451b8ec7962154ef31f2f4ba10166b45a",
    "retired": false
   }
  ]
