@@ -1,0 +1,163 @@
+{
+  "schema": 1,
+  "version": "2026.11.18-test",
+  "assetRef": "34b397270073356f6be7dcf1a02edb48d7687ed5",
+  "basePath": "assets/avatars",
+  "tiers": [
+    {
+      "id": "b1",
+      "min": 1,
+      "max": 19
+    },
+    {
+      "id": "b2",
+      "min": 20,
+      "max": 49
+    },
+    {
+      "id": "b3",
+      "min": 50,
+      "max": 69
+    },
+    {
+      "id": "b4",
+      "min": 70,
+      "max": 89
+    },
+    {
+      "id": "b5",
+      "min": 90,
+      "max": 100
+    }
+  ],
+  "items": [
+    {
+      "id": "b1-0001",
+      "tier": "b1",
+      "file": "b1/b1-0001.webp",
+      "bytes": 1072,
+      "sha256": "f584432b530ebc5906391a5dd23023f9f700f628c0e45e2a09f0bf66ae301a1a",
+      "retired": false
+    },
+    {
+      "id": "b1-0002",
+      "tier": "b1",
+      "file": "b1/b1-0002.webp",
+      "bytes": 1152,
+      "sha256": "8902fd2315d339289e5733281566af7d4e1bbc309a5bc39d95b05a2c84630204",
+      "retired": false
+    },
+    {
+      "id": "b2-0001",
+      "tier": "b2",
+      "file": "b2/b2-0001.webp",
+      "bytes": 1268,
+      "sha256": "6e794a7fd90d07214d2edf2a7a14e85915be0e68a9cf4ca10f26297d49fa2b28",
+      "retired": false
+    },
+    {
+      "id": "b2-0002",
+      "tier": "b2",
+      "file": "b2/b2-0002.webp",
+      "bytes": 1344,
+      "sha256": "67b94a8cfb65d1ce9a83c494ca1e2ae32b8daa2ff58956bc8bf1ed01108ba91e",
+      "retired": false
+    },
+    {
+      "id": "b2-0003",
+      "tier": "b2",
+      "file": "b2/b2-0003.webp",
+      "bytes": 1334,
+      "sha256": "3ba168ef1497f01274a9b56cfb4e26941a8f75cf7d7a24e0a00c6b434ada2af0",
+      "retired": false
+    },
+    {
+      "id": "b3-0001",
+      "tier": "b3",
+      "file": "b3/b3-0001.webp",
+      "bytes": 1422,
+      "sha256": "65e4290b2d7a9d9e03a2ca320a80f3ed9fa0e2892cb69b2ad0b88a32f0af8609",
+      "retired": false
+    },
+    {
+      "id": "b3-0002",
+      "tier": "b3",
+      "file": "b3/b3-0002.webp",
+      "bytes": 1500,
+      "sha256": "5d12049d1e34cb84f3399eca36a8515a2ad4a896eeb53134de152858a800bf24",
+      "retired": false
+    },
+    {
+      "id": "b3-0003",
+      "tier": "b3",
+      "file": "b3/b3-0003.webp",
+      "bytes": 1508,
+      "sha256": "9f0b37bce4b76ac4a7f67c0195784f54f22147a02f7b5ed555552fac3a669730",
+      "retired": false
+    },
+    {
+      "id": "b3-0004",
+      "tier": "b3",
+      "file": "b3/b3-0004.webp",
+      "bytes": 1456,
+      "sha256": "89751f5f055d94d749fc0b02e3e4c69db9c1028c34f3f0155948523f9c28f3b6",
+      "retired": false
+    },
+    {
+      "id": "b4-0001",
+      "tier": "b4",
+      "file": "b4/b4-0001.webp",
+      "bytes": 1322,
+      "sha256": "a2c27a0d3aad6930a36814e4a273a9d5378b85beb12bc2a22ea2a927a0da9038",
+      "retired": false
+    },
+    {
+      "id": "b4-0002",
+      "tier": "b4",
+      "file": "b4/b4-0002.webp",
+      "bytes": 1368,
+      "sha256": "e5c2651aa7ef92c150c3db31f4207bf036a382de1a0d23cb790c576f82a4b732",
+      "retired": false
+    },
+    {
+      "id": "b4-0003",
+      "tier": "b4",
+      "file": "b4/b4-0003.webp",
+      "bytes": 1412,
+      "sha256": "8363b48eb9c3c205cfb33dc9ffdd07c1d6c4b4da4156373cb190d3df8b091932",
+      "retired": false
+    },
+    {
+      "id": "b4-0004",
+      "tier": "b4",
+      "file": "b4/b4-0004.webp",
+      "bytes": 1336,
+      "sha256": "4c40409b0e90f199b966f902867bf4f6948b816dbd51d89d58274f8ba5d69452",
+      "retired": false
+    },
+    {
+      "id": "b5-0001",
+      "tier": "b5",
+      "file": "b5/b5-0001.webp",
+      "bytes": 1520,
+      "sha256": "f738b7c0bb520976f74fcf673c243988d7ffdf0a0141e51309964f847a481834",
+      "retired": false
+    },
+    {
+      "id": "b5-0002",
+      "tier": "b5",
+      "file": "b5/b5-0002.webp",
+      "bytes": 1606,
+      "sha256": "4974fea2a06d96bdb04d2502f4ab6037958ca0a820b206d00d7ba2520c9fa2f5",
+      "retired": false
+    },
+    {
+      "id": "b5-0003",
+      "tier": "b5",
+      "file": "b5/b5-0003.webp",
+      "bytes": 1606,
+      "sha256": "78f888aa06afab4aade308075408632d1305898d7b071952896ce46e7ccef8ad",
+      "retired": false
+    }
+  ]
+}
